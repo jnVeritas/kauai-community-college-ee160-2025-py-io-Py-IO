@@ -3,7 +3,8 @@
 #
 # Developer: Justin Nguyen
 # Last Edited: 05/14/2025
-# Published: 05/14/2025
+# Created: 05/13/2025
+# Description: Takes the user's input, appends it as a Caesar's Cipher message according to a user-specified shift factor in a new file.
 #
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
